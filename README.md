@@ -29,11 +29,6 @@ python app.py
 
 The application will be accessible at `http://127.0.0.1:5000/` in your web browser.
 
-## Usage
-
-1. Upload two audio files for comparison.
-2Click the "Compare" button to initiate the comparison.
-
 ## API Endpoint
 
 ### `/compare_audio` (POST)
